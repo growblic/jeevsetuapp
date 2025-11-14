@@ -6,7 +6,7 @@
 *{box-sizing:border-box}
 body{font-family:system-ui,Arial,sans-serif;color:var(--text);background:var(--bg);margin:0}
 .container{max-width:1000px;margin:0 auto;padding:16px}
-.site-header{background:white;padding:12px 0;border-bottom:1px solid #e5e5e5}
+.site-header{background:black;padding:12px 0;border-bottom:1px solid #e5e5e5}
 .site-header .container{display:flex;align-items:center;justify-content:space-between}
 .site-header h1{margin:0;font-size:20px}
 .site-header nav a{margin-left:12px;text-decoration:none;color:#444}
